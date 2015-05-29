@@ -6,3 +6,4 @@ node_modules/
 examples/app.js
 .DS_Store
 server.js
+/.idea/
